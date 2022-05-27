@@ -1,0 +1,7 @@
+D:\NguyenVanDuong\Ki2Nam3\LT_NET_C#\KiemTra\De_1\bin\Debug\De_1.exe.config
+D:\NguyenVanDuong\Ki2Nam3\LT_NET_C#\KiemTra\De_1\bin\Debug\De_1.exe
+D:\NguyenVanDuong\Ki2Nam3\LT_NET_C#\KiemTra\De_1\bin\Debug\De_1.pdb
+D:\NguyenVanDuong\Ki2Nam3\LT_NET_C#\KiemTra\De_1\obj\Debug\De_1.csproj.AssemblyReference.cache
+D:\NguyenVanDuong\Ki2Nam3\LT_NET_C#\KiemTra\De_1\obj\Debug\De_1.csproj.CoreCompileInputs.cache
+D:\NguyenVanDuong\Ki2Nam3\LT_NET_C#\KiemTra\De_1\obj\Debug\De_1.exe
+D:\NguyenVanDuong\Ki2Nam3\LT_NET_C#\KiemTra\De_1\obj\Debug\De_1.pdb
