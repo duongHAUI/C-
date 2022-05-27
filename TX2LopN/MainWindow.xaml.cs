@@ -87,6 +87,7 @@ namespace TX2LopN
                 NhanVien nv = new NhanVien(hoTen, loaiNhanVien,gioiTinh, ngaySinh, tien,ngonNgu);
                 list.Add(nv);
                 lbdata.ItemsSource = list;
+                lbdata.Items.RemoveAt(list.Count);
             }
         }
 

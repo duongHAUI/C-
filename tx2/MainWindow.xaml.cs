@@ -42,13 +42,17 @@ namespace tx2
                 msgErr += "Phải nhập đủ các trường!\n";
             }
             int so = 0;
-            if(!int.TryParse(soDien , out so))
+            try
             {
-                msgErr += "Bạn phải nhập số điện là số!\n";
+                so = int.Parse(soDien);
+                if(so <10 || so > 100)
+                {
+                    msgErr += "Số ddieeejn thuộc 10 - 100!\n";
+                }
             }
-            else if(so <10 || so > 100)
+            catch (Exception)
             {
-                msgErr += "Số điện phải thuộc từ 10 đến 100!\n";
+                msgErr += "Số điện là số!!\n";
             }
             if(msgErr != "")
             {
